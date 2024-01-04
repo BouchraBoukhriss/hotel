@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true,live_feed=true &#13;&#10;&#13;&#10;" audit="true" db_object_id="8770b650975e7110f19e79100153af9c" label="Room" max_length="40" name="x_hotel_room" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Floor" max_length="40" name="floor" type="integer"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
